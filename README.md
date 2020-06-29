@@ -10,6 +10,10 @@ To my page.
 
 :tada: :fireworks: :octocat:
 
-#(My name is LBlake)
+My name is LBlake:
+
+>This is my first time
+>using github.
+
 
 
